@@ -1,3 +1,7 @@
-title: Hitesh Seedarla
-#show_downloads: true
+title: Hitesh's Portfolio
 theme: jekyll-theme-minimal
+description: Full Stack Java Developer with expertise in Java, Spring Boot, Angular, React, and Cloud Services
+url: "https://github.com/Hithesh198"
+author: Hitesh S
+github_username: HiteshS
+show_experience: true
