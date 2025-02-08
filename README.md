@@ -1,4 +1,4 @@
-# 👨‍💻 Hitesh S | Full Stack Java Developer  
+# Hitesh S | Full Stack Java Developer  
 
 Welcome to my GitHub portfolio! I'm a Senior Java Full Stack Developer with 7+ years of experience in designing, developing, and maintaining robust software solutions.  
 
